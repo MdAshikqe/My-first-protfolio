@@ -13,10 +13,11 @@ p{
     width: 50%;
 }
 .width img{
-    width: 100%;
+    width: 90%;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .pad{
     padding-left: 20px;
@@ -29,7 +30,13 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
     
+    
 }
 body{
     margin: 0%;
+}
+.dream Big{
+    padding-left: 20px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
 }
