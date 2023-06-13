@@ -36,7 +36,8 @@ body{
     margin: 0%;
 }
 .dream Big{
-    padding-left: 20px;
+    
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
+    background-position: top;
 }
