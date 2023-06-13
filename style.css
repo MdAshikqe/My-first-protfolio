@@ -52,6 +52,31 @@ body{
     margin-left: 10px;
     margin-right: 10%;
     box-shadow: 10px 10px 40px gray;
-    border-left: 5px solid red;
+    border-radius: 10px;
+    
+    
+}
+.Exprecebg{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: left;
+}
+#web_border{
+    /* border-left: 5px solid green; */
+        border-image: linear-gradient(#f6b73c, #4d9f0c) 30;
+    border-left: 4px solid ;
+    border-radius: 10px;
+}
+
+#web_border1{
+    /* border-left: 5px solid rgb(117, 208, 227); */
+    border-image: linear-gradient(#9a1f26, #0527d2) 30;
+    border-left: 4px solid ;
+    border-radius: 10px;
+}
+
+footer p{
+    text-align: center;
 }
 
